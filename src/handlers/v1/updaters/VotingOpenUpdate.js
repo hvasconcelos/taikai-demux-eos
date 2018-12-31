@@ -1,6 +1,6 @@
 
 const obj = {
-    actionType: "taikai.voting::open",
+    actionType: "taikai.poll::open",
     apply: function(state, payload, blockInfo, context){
         console.info("Received a Voting Open");
     },
