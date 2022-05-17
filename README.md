@@ -3,8 +3,6 @@ Taikai Demux EOS is an application that listen to actions that are finalized on 
 related to taikai smart contract.
 
 
-
-
 # Quick Start 
 
 1. Create an enviroment ```.env``` file
